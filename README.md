@@ -1,0 +1,34 @@
+# 五條真由美 – DANZEN!ふたりはプリキュア(ver.MaxHeart)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Max Heart
+Purikyua Purikyua
+Purikyua Purikyua
+Purikyua Purikyua
+Puritide kyua kyua futari wa
+Purikyua
+Ichinan satte mata ichinan
+Buchcha ke arenai
+Max Heart
+Seifuku kite temo futari wa
+Muchakucha Toughshi
+Max Heart
+Otagaii Pinch wonorikoero tabi
+Tsuyoku chikaku
+Narune Max Heart
+Ye your best my best ikiterun dakara
+Shippai nante menjenai
+Marau kadoni foku kitaru desho
+NEGATIVE datte buttabuu
+Inochinohana sakete omoikirri
+Motto bari-bari
+Purikyua Purikyua
+Purikyua Purikyua
+WERE Max Heart
+Puriti de kyua kyua futari wa
+Purikyua
+Purikyua Purikyua
+Max Heart!
+```
