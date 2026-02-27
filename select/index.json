@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "DANZEN!ふたりはプリキュア(ver.MaxHeart)",
+  "base_artist": "五條真由美",
+  "createdAt": "2026-02-27T14:34:14.187201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DANZEN!ふたりはプリキュア(ver.MaxHeart)",
+      "artist": "五條真由美",
+      "has_synced": false,
+      "path": "select/01_DANZEN!ふたりはプリキュア(ver.MaxHeart)_五條真由美.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DANZEN! ふたりはプリキュア (ver. MaxHeart)",
+      "artist": "五條真由美",
+      "has_synced": false,
+      "path": "select/02_DANZEN!_ふたりはプリキュア_(ver._MaxHeart)_五條真由美.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DANZEN！ふたりはプリキュア(ver.MaxHeart)",
+      "artist": "Mayumi Gojo",
+      "has_synced": false,
+      "path": "select/03_DANZEN!ふたりはプリキュア(ver.MaxHeart)_Mayumi_Gojo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DANZEN! ふたりはプリキュア (ver.MaxHeart)",
+      "artist": "Mayumi Gojo",
+      "has_synced": false,
+      "path": "select/04_DANZEN!_ふたりはプリキュア_(ver.MaxHeart)_Mayumi_Gojo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DANZEN! ふたりはプリキュア ver.MaxHeart (TVsize)",
+      "artist": "Mayumi Gojo",
+      "has_synced": false,
+      "path": "select/05_DANZEN!_ふたりはプリキュア_ver.MaxHeart_(TVsize)_Mayumi_Gojo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DANZEN!ふたりはプリキュア(ver.MaxHeart)",
+      "artist": "五條真由美",
+      "has_synced": false,
+      "path": "select/pl_01_DANZEN!ふたりはプリキュア(ver.MaxHeart)_五條真由美.txt"
+    }
+  ]
+}
